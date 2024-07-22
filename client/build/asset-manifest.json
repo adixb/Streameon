@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a974e43e.css",
+    "main.js": "/static/js/main.701a7e3c.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/videoland.mp4": "/static/media/videoland.83e935090d202a0e39eb.mp4",
+    "static/media/LandingImage.png": "/static/media/LandingImage.9b3e6543cfb7d55e667a.png",
+    "static/media/video-camera-icon.png": "/static/media/video-camera-icon.96c3153e7cf157aee3a0.png",
+    "index.html": "/index.html",
+    "main.a974e43e.css.map": "/static/css/main.a974e43e.css.map",
+    "main.701a7e3c.js.map": "/static/js/main.701a7e3c.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a974e43e.css",
+    "static/js/main.701a7e3c.js"
+  ]
+}
